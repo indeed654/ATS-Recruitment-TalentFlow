@@ -3,7 +3,7 @@
 > A modern full-stack Applicant Tracking System designed to manage the complete recruitment lifecycle — from candidate intake and application tracking to interviews, hiring pipeline management, and recruitment analytics.
 
 <p align="center">
-  <img src="docs/screenshots/Dashboard.png" alt="TalentFlow ATS Dashboard" width="100%">
+  <img src="docs/screenshots/dashboard.png" alt="TalentFlow ATS Dashboard" width="100%">
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ TalentFlow provides separate authentication flows for internal recruiting staff 
 ### 📊 Recruitment Dashboard
 
 <p align="center">
-  <img src="docs/screenshots/Dashboard.png" alt="TalentFlow ATS Dashboard" width="100%">
+  <img src="docs/screenshots/dashboard.png" alt="TalentFlow ATS Dashboard" width="100%">
 </p>
 
 The recruitment dashboard provides a real-time overview of:
@@ -51,22 +51,12 @@ The recruitment dashboard provides a real-time overview of:
 ### 🧩 Candidate Pipeline
 
 <p align="center">
-  <img src="docs/screenshots/Pipeline.png" alt="TalentFlow Candidate Pipeline" width="100%">
+  <img src="docs/screenshots/pipeline.png" alt="TalentFlow Candidate Pipeline" width="100%">
 </p>
 
 The Kanban-style recruitment pipeline allows teams to visualize candidate progression across hiring stages:
 
 **Applied → Screening → Shortlisted → Interview → Offer → Hired**
-
----
-
-### 📅 Interview Management
-
-<p align="center">
-  <img src="docs/screenshots/interviews.png" alt="TalentFlow Interview Management" width="100%">
-</p>
-
-The interview workspace provides a centralized view of upcoming interviews and recruitment activity.
 
 ---
 
